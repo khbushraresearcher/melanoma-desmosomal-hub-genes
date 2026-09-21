@@ -1,0 +1,2 @@
+"Dataset","Model","Alpha","Lambda","Number_Candidate_Genes","Number_Selected_Genes"
+"TCGA-SKCM","LASSO Cox proportional hazards",1,0.00115187717688566,5,5
